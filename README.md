@@ -1,5 +1,5 @@
 
-# AI Content Summariser REST API
+# AI Content Summariser  
 
 A production-ready Spring Boot RESTful web service that integrates with Google Gemini AI (`gemini-2.5-flash`) to generate concise, key-point text summaries and estimated reading times.
 
